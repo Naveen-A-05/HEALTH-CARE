@@ -9,7 +9,7 @@ oxygen.html
 
 
 How to start the website on a local machine:
- 1. First download all files from the repository.
+ 1. First extract (8.healthcare.rar) file or download all files from the repository.
  2. Download and link all images. 
   Tip: for example change src from (src="images/image1.jpg") to (src="image1.jpg")
  3. Open this downloaded folder and you can run the source code.
